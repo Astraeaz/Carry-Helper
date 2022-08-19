@@ -11,5 +11,5 @@ Carry Helper does all sorts of things. It supports slayer and dungeon carries. F
 You can apply by contacting Thrill#0534 on discord. The minimum requirements are listed below.
 
 ## What are the requirements to join the discord?
-The minimum requirements for slayer carriers are to be able to kill the highest tier of the slayer boss you are carrying for in under 1 minute. (for voidglooms, it is 80 seconds).
-The minimum requirements for dungeno carriers are to be able to beat atleast floor 5 solo with no blessings in under 5 minutes. For floor 7 this is increased to 10 minutes.
+The minimum requirements for slayer carriers are to be able to kill the highest tier of the slayer boss you are carrying for in under 1 minute. (for voidglooms, it is 80 seconds). <br />
+The minimum requirements for dungeon carriers are to be able to beat atleast floor 5 solo with no blessings in under 5 minutes. For floor 7 this is increased to 10 minutes.
